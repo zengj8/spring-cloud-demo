@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.user.name",
+      "defaultValue": "sss"
+    },
+    {
+      "name": "spring.user.enabled",
+      "type": "java.lang.Boolean",
+      "defaultValue": false
+    }
+  ]
+}

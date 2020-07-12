@@ -1,0 +1,3 @@
+# 开启自动装配
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.example.user.UserAutoConfigure
